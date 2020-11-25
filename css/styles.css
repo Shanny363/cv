@@ -1,0 +1,38 @@
+/*************************TAG SELECTORS******************/
+
+body{
+  background-color: #bedbbb;
+  font-family: sans-serif;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #5aa469;
+  border-width: 20px;
+  width: 15%;
+  text-align: center;
+
+}
+  h1 {
+    color: #707070;
+    font-family: sans-serif;
+
+  }
+  h3 { color: #59886b;
+    font-family: sans-serif;
+  }
+a {
+  font-family: sans-serif;
+  color: #707070;
+}
+
+/*************************CLASS SELECTORS******************/
+
+.s {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+.HP {
+  margin: auto;
+}
